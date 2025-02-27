@@ -147,6 +147,6 @@ Observe os alertas no display, LEDs e buzzer.
 Autor
 Nome: Mateus Moreira da Silva
 
-Repositório: Link para o repositório
+Repositório: (https://github.com/Mateus-MDS/Monitoramento_Motor.git)
 
-Vídeo de Demonstração: Link para o vídeo
+Vídeo de Demonstração: (https://www.youtube.com/watch?v=_hJPbPTaISI)
