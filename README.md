@@ -1,5 +1,7 @@
 Monitoramento Inteligente de Motores com Alertas em Tempo Real
+
 Descrição:
+
 Este projeto tem como objetivo monitorar o funcionamento de motores elétricos em tempo real, utilizando sensores para medir temperatura, rotação, vibração e corrente. O sistema é implementado com o microcontrolador RP2040 da Raspberry Pi, utilizando a placa de desenvolvimento BitDogLab. O projeto inclui a exibição dos estados dos sensores em um display OLED SSD1306, alertas visuais com LEDs RGB e alertas sonoros com um buzzer.
 
 O sistema é capaz de detectar condições anormais, como sobrecarga, falhas mecânicas ou problemas de resfriamento, e emitir alertas em tempo real para evitar danos ao motor.
