@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/monitoramento_motor.uf2'
+elf = 'build/monitoramento_motor.elf'
